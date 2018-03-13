@@ -1,0 +1,1 @@
+([false,true] select (_this in allMapMarkers))
